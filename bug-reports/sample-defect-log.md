@@ -8,7 +8,7 @@ All confidential information has been removed.
 ## Defect Tracking Fields Used
 
 - Submitted On
-- QA Who Ticket
+- QA 
 - Bug Name
 - Bug Level (Critical, Major, Minor, Trivial, Suggestion)
 - Description
