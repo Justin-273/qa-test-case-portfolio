@@ -52,3 +52,10 @@ No action occurs. Button appears clickable but does not trigger authentication.
 
 ### Status:
 Resolved
+
+---
+
+## Screenshot Reference
+
+A sanitized screenshot of the original defect tracking list is included in this folder.
+All sensitive project details have been censored to maintain confidentiality.
