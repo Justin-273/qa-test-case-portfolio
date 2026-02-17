@@ -23,11 +23,11 @@ All confidential information has been removed.
 
 ## Sample Entries
 
-| Submitted On |       QA      |           Bug Name              | Bug Level | Bug Solver |   Status    |
-|--------------|---------------|---------------------------------|-----------|------------|-------------|
-| 2025-05-10   | J. Manongsong | Login button unresponsive       | Critical  | Dev A      | Resolved    |
-| 2025-05-11   | J. Manongsong | Incorrect validation message    | Major     | Dev B      | In Progress |
-| 2025-05-12   | J. Manongsong | UI misalignment on profile page | Minor     | Dev C      | Open        |
+| Submitted On |    QA    |           Bug Name              | Bug Level | Bug Solver |   Status    |
+|--------------|----------|---------------------------------|-----------|------------|-------------|
+| 2025-05-10   | John Doe | Login button unresponsive       | Critical  | Dev A      | Resolved    |
+| 2025-05-11   | John Doe | Incorrect validation message    | Major     | Dev B      | In Progress |
+| 2025-05-12   | John Doe | UI misalignment on profile page | Minor     | Dev C      | Open        |
 
 ---
 
