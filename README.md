@@ -12,7 +12,6 @@ This repository contains sample QA test cases created using a mind mapping appro
 ## Tools Used
 - XMind (for test case design)
 - Manual Testing Techniques
-- GitHub (documentation & version control)
 
 ## Contents
 - **test-cases/** – Manual test cases in mind map format
